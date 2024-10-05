@@ -1,4 +1,4 @@
-# Nebula Explorer
+# SDM: Nebula Explorer App
 
 An interactive app for visualizing nebulae and enhancing public engagement with space science.
 
