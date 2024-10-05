@@ -30,8 +30,3 @@ No coding is required to use this project. Simply explore the mockup design prov
 - Integration of augmented reality features.
 - Expanding the dataset to include more celestial objects.
 - Collaborating with space agencies for real-time data updates.
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
